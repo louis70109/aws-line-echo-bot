@@ -1,3 +1,8 @@
+# aws-line-echo-bot
+
+This is my first project using Serverless framework to create Line echo bot in AWS.
+Release this project to help first time use this framework's developer!
+
 # Quick Start
 
 1. Install serverless via npm
@@ -28,3 +33,11 @@ serverless deploy
 ```
 
 Now you can test you chatbot, have fun!
+
+# Author
+
+Create by NiJia
+
+# License
+
+The project is available as open source under the terms of the MIT License.
