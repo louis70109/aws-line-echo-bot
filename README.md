@@ -1,6 +1,7 @@
 # aws-line-echo-bot
 
 This is my first project using Serverless framework to create Line echo bot in AWS.
+
 Release this project to help first time use this framework's developer!
 
 # Quick Start
