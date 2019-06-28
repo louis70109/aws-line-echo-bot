@@ -22,8 +22,8 @@ export AWS_SECRET_ACCESS_KEY=<your-secret-key-here>
 3. Clone this project
 
 ```bash=
-git clone https://github.com/louis70109/aws-line-echo-bot.git
-cd aws-line-echo-bot/
+serverless install --url https://github.com/louis70109/aws-line-echo-bot -n <YOUR_FILE_NAME>
+cd <YOUR_FILE_NAME>/
 ```
 
 4. Deploy the webhhok function
