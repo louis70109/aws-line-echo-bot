@@ -42,6 +42,7 @@ handler = WebhookHandler('YOUR_CHANNEL_SECRET')
 
 ```bash=
 npm install
+pip install -r requirements.txt
 serverless deploy
 ```
 
