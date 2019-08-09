@@ -53,6 +53,10 @@ Now you can test you chatbot, have fun!
 
 Create by NiJia
 
+# Bonus
+
+This project is combine in [serverless example project](https://github.com/serverless/examples/tree/master/aws-python-line-echo-bot)
+
 # License
 
 The project is available as open source under the terms of the MIT License.
