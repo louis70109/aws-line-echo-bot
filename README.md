@@ -55,8 +55,8 @@ Create by NiJia
 
 # Bonus
 
-This project is combine in [serverless example project](https://github.com/serverless/examples/tree/master/aws-python-line-echo-bot)
+This project is combined in [serverless example project](https://github.com/serverless/examples/tree/master/aws-python-line-echo-bot)
 
 # License
 
-The project is available as open source under the terms of the MIT License.
+MIT
