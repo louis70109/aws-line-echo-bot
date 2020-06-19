@@ -31,7 +31,7 @@ $ serverless install --url https://github.com/louis70109/aws-line-echo-bot -n <Y
 $ cd <YOUR_FILE_NAME>/
 ```
 
-4. Insert you line bot secret & key
+4. Insert you LINE bot secret & key
 
 ```python=
 line_bot_api = LineBotApi('YOUR_CHANNEL_ACCESS_TOKEN')
