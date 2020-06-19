@@ -1,13 +1,13 @@
-# aws-line-echo-bot
+# aws-LINE-echo-bot
 
-This is my first project using Serverless framework to create Line echo bot in AWS.
+This is my first project using Serverless framework to create LINE echo bot in AWS.
 
 Release this project to help first time use this framework's developer!
 
 # Bebore you start
 
-1. Line developer account
-2. [Line Message API](https://developers.line.biz/en/docs/messaging-api/getting-started/)
+1. LINE developer account
+2. [LINE Message API](https://developers.line.biz/en/docs/messaging-api/getting-started/)
 
 # Quick Start
 
